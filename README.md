@@ -1,3 +1,3 @@
 # -
 # NetEasyMusicPlayer
- ![](https://github.com/LevenWin/NetEasyMusicPlayer/screen.gif)
+![](https://github.com/LevenWin/NetEasyMusicPlayer/raw/master/screen.gif)  
